@@ -26,4 +26,8 @@ vectorizer.pkl - Text vectorizer
 pip install -r requirements.txt
 python app.py
 
-![Spam Detector](demo-image.jpg)
+## 📸 Demo
+![Spam Detector Demo](demo-image.jpeg)
+## 🌐 Live Demo
+
+[Click here to try the app](https://spam-detector-ml-nvp9py6et6k6a7rhdjvru8.streamlit.app/)
