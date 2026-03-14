@@ -28,7 +28,9 @@ python app.py
 
 ## 📸 Demo
 
-![Spam Detector Demo](demo-image.jpeg)
+<p align="center">
+<img src="spam.png" width="800">
+</p>
 
 ## 🌐 Live Demo
 
