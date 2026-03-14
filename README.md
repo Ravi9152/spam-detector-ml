@@ -22,12 +22,14 @@ spam_model.pkl - Saved trained model
 vectorizer.pkl - Text vectorizer  
 
 ## ▶ How to Run
-```bash
-pip install -r requirements.txt
-python app.py
+
+pip install -r requirements.txt  
+python app.py  
 
 ## 📸 Demo
+
 ![Spam Detector Demo](demo-image.jpeg)
+
 ## 🌐 Live Demo
 
 [Click here to try the app](https://spam-detector-ml-nvp9py6et6k6a7rhdjvru8.streamlit.app/)
