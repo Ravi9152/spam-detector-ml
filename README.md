@@ -26,4 +26,4 @@ vectorizer.pkl - Text vectorizer
 pip install -r requirements.txt
 python app.py
 
-![Spam Detector](demo image.jpg)
+![Spam Detector](demo-image.jpg)
