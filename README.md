@@ -1,11 +1,13 @@
 A Machine Learning based Spam Detection system that classifies messages as *Spam* or *Not Spam* using Natural Language Processing.
 
 ## 🚀 Features
-- Text preprocessing using NLP
-- Spam classification using Multinomial Naive Bayes
-- Vectorization using CountVectorizer
-- Model accuracy evaluation
-
+- Spam message classification using Machine Learning
+- NLP-based text preprocessing
+- CountVectorizer for text feature extraction
+- Multinomial Naive Bayes classification model
+- Model training and accuracy evaluation
+- Saved trained model (.pkl) for reuse
+- Easy to integrate into applications
 ## 🛠 Technologies Used
 - Python
 - Scikit-learn
